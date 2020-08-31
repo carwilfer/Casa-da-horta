@@ -335,3 +335,4 @@ C:\Users\Carlos\Desktop\Projeto de bloco\Casa-da-horta\CasaDaHorta.Web\obj\Debug
 C:\Users\Carlos\Desktop\Projeto de bloco\Casa-da-horta\CasaDaHorta.Web\obj\Debug\netcoreapp3.1\CasaDaHorta.Web.dll
 C:\Users\Carlos\Desktop\Projeto de bloco\Casa-da-horta\CasaDaHorta.Web\obj\Debug\netcoreapp3.1\CasaDaHorta.Web.pdb
 C:\Users\Carlos\Desktop\Projeto de bloco\Casa-da-horta\CasaDaHorta.Web\obj\Debug\netcoreapp3.1\CasaDaHorta.Web.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\Projeto de bloco\Casa-da-horta\CasaDaHorta.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_HelloUser.cshtml.g.cs
